@@ -1,0 +1,31 @@
+export const alphabet1 = "ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890";
+export const alphabet = "abcdefghijklmnopqrstuvwxyz1234567890";
+
+// export const alphabet = [
+//   "A",
+//   "B",
+//   "C",
+//   "D",
+//   "E",
+//   "F",
+//   "G",
+//   "H",
+//   "I",
+//   "J",
+//   "K",
+//   "L",
+//   "M",
+//   "N",
+//   "O",
+//   "P",
+//   "Q",
+//   "R",
+//   "S",
+//   "T",
+//   "U",
+//   "V",
+//   "W",
+//   "X",
+//   "Y",
+//   "Z",
+// ];
